@@ -1,0 +1,14 @@
+projeto/
+├── config/
+│   ├── dev.js
+│   ├── homol.js
+│   ├── prod.js
+│   └── index.js
+├── src/
+│   ├── services/
+│   │   └── externalApi.js
+│   ├── routes/
+│   │   └── index.js
+│   └── app.js
+├── package.json
+└── server.js
